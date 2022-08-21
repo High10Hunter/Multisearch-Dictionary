@@ -1,7 +1,7 @@
 
 # Multisearch Dictionary 📚
 
-A extension allowing you to simultaneously search for the translation of a word in multiple online dictionary.
+A extension allowing you to simultaneously search for the translation of a word in multiple online dictionaries.
 
 
 
@@ -9,7 +9,7 @@ A extension allowing you to simultaneously search for the translation of a word 
 ## Features
 
 - Translate/Find definition word in English  
-- Available online dictionary:
+- Available online dictionaries:
     - Oxford Online Dictionary
     - Cambridge Online Dictionary
     - Collins Online Dictionary
