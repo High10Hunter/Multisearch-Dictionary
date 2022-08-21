@@ -1,0 +1,13 @@
+{
+	"name": "MultiSearch Dictionary",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"author": "Sun",
+	"action": {
+		"default_popup": "index.html",
+		"default_title": "Multisearch Dictionary"
+	},
+	"icons": {
+		"128": "icon.png"
+	}
+}
